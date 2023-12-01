@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+<img src="i.png" alt="image de monuments" title="img de monuments" width=350 height=150 usemap="#monument"/>
+<map name="monument">
+<area shape="rect" coords="24,15,148,123" href="https://www.inde.com" alt="taj mahal"/>
+<area shape="poly" coords="210,8,174,139,238,139" href="https://www.paris.com" alt="tour EIFFEL"/>
+<area shape="rect" coords="287,9,330,143" href="https://www.italy.com" alt="tour de 
+test
+</map>
+</body>
+</html>
